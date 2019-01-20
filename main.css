@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+h1 {
+    color: blue;
+}
+
+.navbar {
+    display: block;
+    height: 10px;
+}
+
+.navbar_left {
+    float: left;
+    padding: 10px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    opacity: 0.75;
+    
+}
+
+.navbar_right {
+    float: right;
+    padding: 10px;
+    font-family: arial, sans-serif;
+   
+}
+ul { 
+    list-style-type: none;
+    padding-left: 0px;
+    display: block;
+    
+    
+    
+}
+li {
+    
+    margin: 10px;
+    
+}
+
+.logo {
+    padding-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+    
+    
+}
+
+.searchform {
+    /*border: 3px solid blue;*/
+    text-align: center;
+}
+.searchbar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    
+
+
+}
